@@ -6,7 +6,7 @@ dirscan-web目录扫描工具<br>
 <br>
 &nbsp;&nbsp;为了使用方便，我为大家准备了自动化配置脚本(必须有python3的环境下)。只需在dirscan目录下面执行 python3 setup.py就会自动配置dirscan所需的环境了
 <br>
-<br>linux的小伙伴如果想创建软连接，那么还需执行 soruce ~/.bash_profile 那么就会创建一个dirscan的快捷方式，如果想修改成别的，那请在setup.py里面修改
+<br>linux的小伙伴如果想创建软连接，那么还需执行 soruce ~/.bash_profile 那么就会创建一个dirscan的软链接，如果想修改成别的，那请在setup.py里面修改
 <br>
 想查看详细介绍请到我博客上阅读----<a href="http://39.106.144.55/index.php/archives/146/" target="_blank">传送门</a>
 ## 使用参数
