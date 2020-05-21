@@ -8,7 +8,7 @@ dirscan-web目录扫描工具<br>
 <br>
 <br>linux的小伙伴如果想创建软连接，那么还需执行 soruce ~/.bash_profile 那么就会创建一个dirscan的软链接，如果想修改成别的，那请在setup.py里面修改
 <br>
-想查看详细介绍请到我博客上阅读----<a href="http://39.106.144.55/index.php/archives/146/" target="_blank">传送门</a>
+想查看详细介绍请到我博客上阅读----<a href="http://www.geit.work/index.php/archives/146/" target="_blank">传送门</a>
 ## 使用参数
  <br>-h,&nbsp;--help&nbsp;&nbsp;&nbsp;show this help message and exit
  <br>-u&nbsp;U&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;添加 url
